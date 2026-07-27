@@ -1,7 +1,7 @@
 ---
 title: "Mastering California Title 22 Section 87411: The Personnel File Compliance Blueprint"
 description: "Do not get cited for missing paperwork. Learn the exact staff file requirements under California Title 22 Section 87411 and Section 87412 for RCFEs and ARFs."
-slug: "personnel-compliance"
+slug: "title-22-personnel-documentation-rcfe"
 category: "Administrative Auditing"
 ---
 
@@ -53,6 +53,6 @@ Managing these rolling expiration dates across dozens of caregivers using paper 
 
 ## 4. For Approved California Training Vendors
 
-If you run a state-approved Initial Certification Training Program (ICTP) or Continuing Education (CE) company, your students need to know how to manage staff file regulations practically. Partner with us to get a **Free Lifetime Title22 Classroom Account**. You can use our pre-seeded dashboard during your lectures to show upcoming administrators exactly how to track personnel credentials visually. Your graduates will also receive a custom 90-day trial in your program's name.
+If you run a state-approved Initial Certification Training Program (ICTP) or Continuing Education (CE) company, your students need to know how to manage staff file regulations practically. Partner with us to get a **Free Lifetime Title22 Classroom Account**. You can use our pre-seeded dashboard during your lectures to show upcoming administrators exactly how to track personnel credentials visually. Your graduates will also receive a custom extended free trial in your program's name.
 
 👉 **[Partner with Title22 for Free Today](https://title-22.com)**
