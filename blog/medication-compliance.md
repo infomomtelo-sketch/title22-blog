@@ -67,6 +67,6 @@ You cannot hand a MAR sheet to a new staff member without documenting their spec
 ---
 
 ### 🎓 For Approved RCFE & ARF Training Vendors
-Are you a state-approved ICTP or Continuing Education trainer? Teaching theoretical Title 22 regulations is hard when your students cannot picture the real-world screens they will use on the job. Partner with us to get a **Free Lifetime Title22 Classroom Account** pre-seeded with a dummy facility, mock residents, and live MAR dashboards to use during your training lectures. Plus, your graduates receive an exclusive 90-day trial in your program's name.
+Are you a state-approved ICTP or Continuing Education trainer? Teaching theoretical Title 22 regulations is hard when your students cannot picture the real-world screens they will use on the job. Partner with us to get a **Free Lifetime Title22 Classroom Account** pre-seeded with a dummy facility, mock residents, and live MAR dashboards to use during your training lectures. Plus, your graduates receive a custom free trial in your program's name.
 
 👉 **[Join the Title22 Trainer Partnership Program Today](https://title-22.com
