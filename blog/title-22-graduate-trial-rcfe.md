@@ -9,7 +9,9 @@ category: "Partnerships"
 
 Your training program has partnered with Title22 to give you an exclusive graduation gift: **A Free Extended Access Pass** to the ultimate California RCFE & ARF compliance software. 
 
-[ ⚡ Claim Your Free custom Trial Now ](https://title22.app)
+ [ ⚡ Claim Your Free Custom Trial Now ](mailto:hello@title-22.com)
+
+
 *No credit card required to start • 100% compliant with CDSS Title 22 parameters*
 
 ***
@@ -36,8 +38,8 @@ Paper charts fail when a busy caregiver forgets to initial a single box on a med
 1. **Create Your Admin Profile:** Sign up with your name and email address.
 2. **Select Your Facility Type:** Choose RCFE (Elderly) or ARF (Adult Residential).
 3. **Apply Your Graduate Code:** Enter the unique promo code provided by your instructor to instantly unlock your full access.
+👉 **[Click Here to Launch Your Free Access Pass Compliance Dashboard](mailto:hello@title-22.com)**
 
-👉 **[Click Here to Launch Your Free Access Pass Compliance Dashboard](https://title22.app)**
 
 ---
 *Title22 is an independent operational tool developed by RunP8 LLC. All software tracking formats are engineered to align with the compliance standards outlined by the California Department of Social Services (CDSS) Community Care Licensing Division.*
